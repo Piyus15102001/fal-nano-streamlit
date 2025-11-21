@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+env/
+venv/
+nano/
+
+# Streamlit
+.streamlit/
+
+# Generated media
+outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
